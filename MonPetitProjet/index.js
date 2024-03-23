@@ -42,11 +42,8 @@ if(echo_exo_tableau === true){
     const array_phrase = ["Il etait une fois la petite maison dans la prairie", "Deso je met pas les accents car je suis en qwerty =O", "Bien le bonjour en passant", "Ouaf"];
 
     console.log(returnEachValueOfArray(array_1_to_10));
+    
     console.log(returnFirstDayOfWeek());
-
-
-    const days = ["Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi", "Dimanche"];
-    console.log(days[0]);
 
     console.log(returnSumOfEachValue(array_even_1_to_10));
 
